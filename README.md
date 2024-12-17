@@ -27,11 +27,6 @@ I'll be super focused if I get an error in my code.
 <a href="https://instagram.com/evcadhan021"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" width="40" height="40"></a>
 <a href="https://telegram.com/evcadhan021"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/telegram.svg" width="40" height="40"></a>
 
-## Languages and Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Languages and Tools:
 
